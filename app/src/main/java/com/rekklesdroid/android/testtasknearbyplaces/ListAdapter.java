@@ -112,7 +112,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
         holder.checkinsCount = getVenueCheckinsCount(item);
         holder.rating = getVenueRating(item);
 
-        int i = 0;
+        int i = 1;
         for (FoursquareTip tip : item.getTips()) {
             holder.tips.add(tip.getText());
             i++;
