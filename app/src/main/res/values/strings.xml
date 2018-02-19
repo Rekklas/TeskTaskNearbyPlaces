@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestTaskNearbyPlaces</string>
+
+    <string name="facebook_app_id">174023629903643</string>
+    <string name="facebook_login_protocol_scheme">fb174023629903643</string>
+    <string name="cancel_login">Login was cancelled</string>
+    <string name="error_login">Error</string>
+    <string name="phone_unavailable">no phone number</string>
+    <string name="venue_is_open">open</string>
+    <string name="venue_is_closed">closed</string>
+    <string name="venue_is_unknown">unknown</string>
+</resources>
